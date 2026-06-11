@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-mortgage-loan
+description: "BIAN Service Domain: Mortgage Loan (Fulfill pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - fulfill
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Loans and Deposits"
+  bian/asset-type: "Mortgage Facility"
+  bian/control-record: "Mortgage Facility Fulfillment Arrangement"
